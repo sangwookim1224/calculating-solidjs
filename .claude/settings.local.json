@@ -8,7 +8,8 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\nfirst commit\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git remote add:*)",
       "Bash(git push:*)",
-      "WebFetch(domain:daleseo.com)"
+      "WebFetch(domain:daleseo.com)",
+      "Bash(taskkill //F //IM node.exe 2>/dev/null; echo \"done\")"
     ]
   }
 }
